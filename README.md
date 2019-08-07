@@ -1,6 +1,6 @@
 # CCC_intern
 # Application of Transfer Learning on Hand Written Digits Classification
- Following Research work is submitted to Dr. K.P. Singh, IIIT Allahabad. It may have copyrights on some of it's sections. Referances used for the research are added in footer.
+ Following Research work is submitted to Dr. K.P. Singh, IIIT Allahabad. It may have copyrights on some of it's sections. Referances used for the research are mentioned in footer.
 
 Author: Priyesh Pratap Singh, Shubham Gupta
 
