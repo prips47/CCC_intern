@@ -52,7 +52,7 @@ A basic representation of our first model
 
 # 4 Experiments
 ## 4.1 Experiment Settings
-We built our model in keras( github link: https://github.com/prips47/CCC intern ) with following settings:
+We built our model in keras( github link: https://github.com/prips47/CCC_intern ) with following settings:
 1. First Model(By freezing weights of a pre-trained model)
 (a) Three Conv2D layers with two MaxPooling layers in between.
 (b) Three dense layer were inserted, followed by flattening.
