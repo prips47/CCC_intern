@@ -1,7 +1,9 @@
 # CCC_intern
+# Application of Transfer Learning on Hand Written Digits Classification
  Following Research work is submitted to Dr. K.P. Singh, IIIT Allahabad. It may have copyrights on some of it's sections. Referances used for the research are added in footer.
 
-# Application of Transfer Learning on Hand Written Digits Classification
+Author: Priyesh Pratap Singh, Shubham Gupta
+
 ## 1 Introduction
 ### 1.1 Problem Statement
 The problem requires us to predict the handwritten digit of any person in just one or two samples. So with the help of transfer learning, we aim to build a universal model which can correctly output any handwritten digit written by anyone.
