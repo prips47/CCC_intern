@@ -2,7 +2,7 @@
 # Application of Transfer Learning on Hand Written Digits Classification
  Following Research work is submitted to Dr. K.P. Singh, IIIT Allahabad. It may have copyrights on some of it's sections. Referances used for the research are mentioned in footer.
 
-Author: Priyesh Pratap Singh, Shubham Gupta
+Author: Priyesh Pratap Singh (IIT ISM Dhanbad), Shubham Gupta (IIIT Sri City)
 
 ## 1 Introduction
 ### 1.1 Problem Statement
@@ -49,7 +49,7 @@ While experiementing, we built one more model(lets call it second model), by int
 The loss function for our new model is Loss Function = L1λ1 − L2λ2 where L1 is the loss w.r.t to label classifier and L2 is w.r.t to Domain classifier.(λ)1 and (λ)2 are the respective parameters.
 Here lambda1 and lambda2 are selected experimentally. For our convince we keep both equal to 1 i.e. both are equidominant.
 ![](https://i.ibb.co/Bf8TWth/figure124.jpg")
-A basic representation of our first model
+A basic representation of our second model
 
 
 # 4 Experiments
