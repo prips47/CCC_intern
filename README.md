@@ -1,4 +1,4 @@
-# CCC_intern
+# Internship Project at Center For Cognitive Computing IIIT Allhabad
 # Application of Transfer Learning on Hand Written Digits Classification
  Following Research work is submitted to Dr. K.P. Singh, IIIT Allahabad. It may have copyrights on some of it's sections. Referances used for the research are mentioned in footer.
 
